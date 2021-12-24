@@ -4,6 +4,9 @@ import java.util.HashMap;
 
 public class ContainsDuplicates {
     public static void main(String[] args) {
+
+        //Adding comment for explaining purposes
+
         int[] nums1 = {1,2,3,4};
         int[] nums2 = {1,2,3,4,4};
 
